@@ -21,7 +21,7 @@ This project is a Python-based steganography tool that uses the Least Significan
 
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/arafath-007/Steganography_Project.git>
+   git clone https://github.com/arafth-007/Steganography_Project.git
    cd <repository-folder>
 2. **Install Dependencies**: Ensure you have Python 3.13 installed.Then, install the required packages:
    ```bash
