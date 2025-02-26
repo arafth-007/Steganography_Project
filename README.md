@@ -64,7 +64,7 @@ This project is open source and available under the MIT License.
 ## Contribution
 Contribution, suggestion, and bug reports are welcome! Feel free to open an issue or submit a pull requesr.
 ## Screenshot
-![Screenshot (3)](https://github.com/user-attachments/assets/402cd4e6-389e-4395-852a-dafda1f5e34a)
+![Screenshot (3)](https://github.com/arafth-007/Steganography_Project/blob/c7b04ab71c2ad50226672253e832cd43a67adccb/Successful%20output.png)
 
   
 
